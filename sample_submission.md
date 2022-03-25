@@ -59,13 +59,9 @@ When finished, click **Save** in the upper left hand corner.
 
 ![Picture5](https://user-images.githubusercontent.com/79376557/159554231-d9a3c824-ea1d-422b-95f7-8897f9cf037a.png)
 
-***Watch a video tutorial on how to create a project here:***
+[***Watch a video tutorial on how to create a project here:***](https://user-images.githubusercontent.com/79376557/159555745-d23a9cf0-30f6-4f78-95be-d6d3317a5f6c.mp4)
 
-https://user-images.githubusercontent.com/79376557/159555745-d23a9cf0-30f6-4f78-95be-d6d3317a5f6c.mp4
-
-***Watch a video tutorial on how to track all of your projects here:***
-
-https://user-images.githubusercontent.com/79376557/159562560-80addaa7-a995-4d95-803c-2b94245c0194.mp4
+[***Watch a video tutorial on how to track all of your projects here:***](https://user-images.githubusercontent.com/79376557/159562560-80addaa7-a995-4d95-803c-2b94245c0194.mp4)
 
 ## Submitting Samples
 
@@ -89,9 +85,7 @@ The notes section is for any additional instructions such as tissue orientation,
 
 When finished, select Save at the top of the screen. 
 
-***Watch a Video Tutorial here:***
-
-https://user-images.githubusercontent.com/79376557/159561465-bb386fa1-c1c9-449b-a6ba-e2647ce35e11.mp4
+[***Watch a Video Tutorial here:***](https://user-images.githubusercontent.com/79376557/159561465-bb386fa1-c1c9-449b-a6ba-e2647ce35e11.mp4)
 
 ## Tracking Service Orders
 
@@ -101,9 +95,7 @@ From the **Services** dropdown menu select **My Service Orders**. Select a time 
 
 To track all the services on a particular project/grant, select **My Projects’ Order** from the **Services** drop-down menu. The page functions the same as above.  
 
-***Watch the video tutorial here:***
-
-https://user-images.githubusercontent.com/79376557/159560775-dc91e43d-6f05-431b-8c46-cd78232a378a.mp4
+[***Watch the video tutorial here:***](https://user-images.githubusercontent.com/79376557/159560775-dc91e43d-6f05-431b-8c46-cd78232a378a.mp4)
 
 ## Booking Scope Time
 
@@ -134,7 +126,5 @@ You will need to select a project to associated with the time being recorded as 
 
 ![Picture17](https://user-images.githubusercontent.com/79376557/159555282-0961ecd2-42ef-4e3f-9547-2f491c6befea.png)
 
-***Watch how to book and track scope time here:***
-
-https://user-images.githubusercontent.com/79376557/159560960-80bc3889-be6f-4f05-899f-82340fe5179f.mp4
+[***Watch how to book and track scope time here:***](https://user-images.githubusercontent.com/79376557/159560960-80bc3889-be6f-4f05-899f-82340fe5179f.mp4)
 
