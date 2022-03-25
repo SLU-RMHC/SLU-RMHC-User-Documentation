@@ -25,7 +25,9 @@ The following are tutorials by the Jackson Laboratories on the use of OMERO (upo
 [OMERO Database Use](https://www.youtube.com/watch?v=e3u-Ugd4W7w)
 [OMERO Figure Use](https://www.youtube.com/watch?v=YeCFaB7VAAQ)
 
+
 [Billikenscope (old instance)](https://www.billikenscope.com)
+
 [Billikenscope (new instance)](https://gamma.billikenscope.com)
 
 
