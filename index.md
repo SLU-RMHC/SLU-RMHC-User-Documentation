@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+---
+title: RMHC@SLU User Documentation
+layout: page
+filename: index.md
+--- 
 
-You can use the [editor on GitHub](https://github.com/SLU-RMHC/User_Documentation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# User Documentation for Users of the Saint Louis University Research Microscopy and Histology Core
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This site will provide you information on submitting samples, booking microscopes, and retrieving your data.  
 
-### Markdown
+The following is the sample submission and booking site:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[SLU Sample Submission Site](https://slu-mhc.calpendo.com/)
 
-```markdown
-Syntax highlighted code block
+The following is a tutorial on using this system.
 
-# Header 1
-## Header 2
-### Header 3
+[Sample Submission and Equipment Booking Tutorials]
 
-- Bulleted
-- List
+The following tutorial describes retrieval of your data from our systems.
 
-1. Numbered
-2. List
+[FTP site and Billikenscope Tutorials)]
 
-**Bold** and _Italic_ and `Code` text
+The following are tutorials by the Jackson Laboratories on the use of OMERO (upon which Billikenscope is built).  It would be foolish to try to replicate such a good resource so please view these videos as an introduction to our own Billikenscope system.  Access to the sytem requires an account created by the RMHC staff.  Please see Caroline for more information.
 
-[Link](url) and ![Image](src)
-```
+[OMERO Database Use](https://www.youtube.com/watch?v=e3u-Ugd4W7w)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[OMERO Figure Use](https://www.youtube.com/watch?v=YeCFaB7VAAQ)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SLU-RMHC/User_Documentation/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Billikenscope (old instance)](https://www.billikenscope.com)
 
-### Support or Contact
+[Billikenscope (new instance)](https://gamma.billikenscope.com)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+[Back to Homepage]
