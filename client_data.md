@@ -1,3 +1,9 @@
+---
+title: SLU RMHC Data Access
+layout: page
+filename: client_data.md
+--- 
+
 # SLU-RMHC_Client_Data_Access
 This a description of how to interact and retrieve your data with the SLU-RMHC.
 
