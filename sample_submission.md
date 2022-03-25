@@ -17,15 +17,13 @@ These resources describe how to submit samples or reserve time on instruments vi
 
 ## Getting Started with SLU Calpendo Website 
 
-Go to https://slu-mhc.calpendo.com/ and click Register new user.
+Go to [https://slu-mhc.calpendo.com/](https://slu-mhc.calpendo.com/) and click Register new user.
 
 ***Note: The website will eventually be connected to Okta. To that end, make sure your username is the same as your Okta/SLU username***
 
 After approval, the first page you see upon logging in is the **Information Pages**. These contain a list of equipment, services, submission policies, and frequently asked questions. Navigation between the pages is on the left side of the screen.
 
-***Watch a video overview here:***
-
-https://user-images.githubusercontent.com/79376557/159560604-ef5c4eaa-4f67-42b1-9bee-0b4255a7ab91.mp4
+[***Watch a video overview here:***](https://user-images.githubusercontent.com/79376557/159560604-ef5c4eaa-4f67-42b1-9bee-0b4255a7ab91.mp4)
 
 ## Projects
 
