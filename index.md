@@ -29,9 +29,7 @@ The following are tutorials by the Jackson Laboratories on the use of OMERO (upo
 
 ## OMERO Database
 
-[Billikenscope (old instance)](https://www.billikenscope.com)
-
-[Billikenscope (new instance)](https://gamma.billikenscope.com)
+[Billikenscope](https://www.billikenscope.com)
 
 
 
